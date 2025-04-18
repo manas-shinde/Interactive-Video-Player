@@ -12,7 +12,7 @@ This project is an interactive video player built with JavaScript, HTML, and CSS
 
 ## Demo
 
-You can see a live demo of the video player [here](https://your-live-demo-url).
+You can see a live demo of the video player [here](https://manas-shinde.github.io/Interactive-Video-Player/).
 
 ## Installation
 
